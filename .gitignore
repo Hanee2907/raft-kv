@@ -1,0 +1,6 @@
+out/
+target/
+data/
+*.class
+.idea/
+*.iml
